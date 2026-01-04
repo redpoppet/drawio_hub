@@ -7,7 +7,7 @@
         <mxCell id="3yZ4CemuOPj7jiAT1Wde-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;nbsp;文档中心(个人/部门/自定义)" vertex="1">
           <mxGeometry height="110" width="170" x="40" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="3yZ4CemuOPj7jiAT1Wde-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="内容中心(副文档)" vertex="1">
+        <mxCell id="3yZ4CemuOPj7jiAT1Wde-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="内容中心(副文档/图谱/索引/缓存)" vertex="1">
           <mxGeometry height="110" width="310" x="230" y="360" as="geometry" />
         </mxCell>
         <mxCell id="3yZ4CemuOPj7jiAT1Wde-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="知识中心(公共/归档/部门/个人/项目/行业/主题)" vertex="1">
