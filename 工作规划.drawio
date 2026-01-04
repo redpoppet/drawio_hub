@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="29.2.9">
+  <diagram id="BcTDTxm4jXwLzKmFTioe" name="第 1 页">
+    <mxGraphModel dx="697" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3yZ4CemuOPj7jiAT1Wde-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;nbsp;文档中心" vertex="1">
+          <mxGeometry height="110" width="170" x="40" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="3yZ4CemuOPj7jiAT1Wde-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="内容中心" vertex="1">
+          <mxGeometry height="110" width="310" x="230" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="3yZ4CemuOPj7jiAT1Wde-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="知识中心" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="3yZ4CemuOPj7jiAT1Wde-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="文件存储" vertex="1">
+          <mxGeometry height="30" width="110" x="70" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="3yZ4CemuOPj7jiAT1Wde-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="文件应用" vertex="1">
+          <mxGeometry height="30" width="110" x="70" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="3yZ4CemuOPj7jiAT1Wde-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="全文解析" vertex="1">
+          <mxGeometry height="30" width="60" x="230" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="3yZ4CemuOPj7jiAT1Wde-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="切片向量" vertex="1">
+          <mxGeometry height="30" width="60" x="290" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="3yZ4CemuOPj7jiAT1Wde-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="索引构建" vertex="1">
+          <mxGeometry height="30" width="60" x="350" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="3yZ4CemuOPj7jiAT1Wde-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="图谱构建" vertex="1">
+          <mxGeometry height="30" width="60" x="410" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="3yZ4CemuOPj7jiAT1Wde-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="副文档管理" vertex="1">
+          <mxGeometry height="30" width="70" x="470" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="3yZ4CemuOPj7jiAT1Wde-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="切片召回" vertex="1">
+          <mxGeometry height="30" width="60" x="280" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="3yZ4CemuOPj7jiAT1Wde-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="全文提取" vertex="1">
+          <mxGeometry height="30" width="60" x="355" y="360" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
