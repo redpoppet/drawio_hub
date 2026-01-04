@@ -22,13 +22,13 @@
         <mxCell id="3yZ4CemuOPj7jiAT1Wde-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="全文解析" vertex="1">
           <mxGeometry height="30" width="60" x="200" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="3yZ4CemuOPj7jiAT1Wde-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="切片向量" vertex="1">
+        <mxCell id="3yZ4CemuOPj7jiAT1Wde-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#80FF00;" value="切片向量" vertex="1">
           <mxGeometry height="30" width="70" x="260" y="440" as="geometry" />
         </mxCell>
         <mxCell id="3yZ4CemuOPj7jiAT1Wde-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="索引构建" vertex="1">
           <mxGeometry height="30" width="70" x="330" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="3yZ4CemuOPj7jiAT1Wde-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="图谱构建" vertex="1">
+        <mxCell id="3yZ4CemuOPj7jiAT1Wde-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#80FF00;" value="图谱构建" vertex="1">
           <mxGeometry height="30" width="70" x="400" y="440" as="geometry" />
         </mxCell>
         <mxCell id="3yZ4CemuOPj7jiAT1Wde-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="副文档管理" vertex="1">
@@ -40,7 +40,7 @@
         <mxCell id="3yZ4CemuOPj7jiAT1Wde-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="全文提取" vertex="1">
           <mxGeometry height="30" width="60" x="260" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="3yZ4CemuOPj7jiAT1Wde-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="格式文件" vertex="1">
+        <mxCell id="3yZ4CemuOPj7jiAT1Wde-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" value="格式文件" vertex="1">
           <mxGeometry height="30" width="50" x="490" y="360" as="geometry" />
         </mxCell>
         <mxCell id="3yZ4CemuOPj7jiAT1Wde-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="图片访问" vertex="1">
@@ -55,7 +55,7 @@
         <mxCell id="3yZ4CemuOPj7jiAT1Wde-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#80FF00;" value="搜索" vertex="1">
           <mxGeometry height="30" width="60" x="710" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="3yZ4CemuOPj7jiAT1Wde-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="AI搜索" vertex="1">
+        <mxCell id="3yZ4CemuOPj7jiAT1Wde-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;" value="AI搜索" vertex="1">
           <mxGeometry height="30" width="60" x="845" y="440" as="geometry" />
         </mxCell>
         <mxCell id="3yZ4CemuOPj7jiAT1Wde-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="文件推荐" vertex="1">
@@ -112,7 +112,7 @@
         <mxCell id="QLSoB5qE-zFHX7qaub0D-9" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" value="内容引用" vertex="1">
           <mxGeometry height="50" width="100" x="546" y="361" as="geometry" />
         </mxCell>
-        <mxCell id="QLSoB5qE-zFHX7qaub0D-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="文本召回" vertex="1">
+        <mxCell id="QLSoB5qE-zFHX7qaub0D-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#80FF00;" value="文本召回" vertex="1">
           <mxGeometry height="30" width="61" x="319" y="360" as="geometry" />
         </mxCell>
         <mxCell id="QLSoB5qE-zFHX7qaub0D-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="图谱召回" vertex="1">
