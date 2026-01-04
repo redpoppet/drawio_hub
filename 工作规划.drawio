@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="29.2.9">
   <diagram id="BcTDTxm4jXwLzKmFTioe" name="第 1 页">
-    <mxGraphModel dx="2074" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2048" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,7 +103,7 @@
         <mxCell id="QLSoB5qE-zFHX7qaub0D-3" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.29;dx=45.2;notch=0;" value="自动采集" vertex="1">
           <mxGeometry height="30" width="95" x="120" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="QLSoB5qE-zFHX7qaub0D-7" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;flipH=1;notch=0;" value="二次创作" vertex="1">
+        <mxCell id="QLSoB5qE-zFHX7qaub0D-7" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;flipH=1;notch=0;" value="知识再生" vertex="1">
           <mxGeometry height="46" width="100" x="545" y="420" as="geometry" />
         </mxCell>
         <mxCell id="QLSoB5qE-zFHX7qaub0D-8" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.19;dx=37.2;flipH=1;notch=0;" value="知识沉淀" vertex="1">
