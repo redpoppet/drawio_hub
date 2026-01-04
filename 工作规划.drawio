@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="29.2.9">
   <diagram id="BcTDTxm4jXwLzKmFTioe" name="第 1 页">
-    <mxGraphModel dx="1030" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1123" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3yZ4CemuOPj7jiAT1Wde-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;nbsp;文档中心(个人/部门/自定义)" vertex="1">
           <mxGeometry height="110" width="170" x="40" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="3yZ4CemuOPj7jiAT1Wde-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="内容中心" vertex="1">
+        <mxCell id="3yZ4CemuOPj7jiAT1Wde-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="内容中心(副文档)" vertex="1">
           <mxGeometry height="110" width="310" x="230" y="360" as="geometry" />
         </mxCell>
         <mxCell id="3yZ4CemuOPj7jiAT1Wde-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="知识中心(公共/归档/部门/个人/项目/行业/主题)" vertex="1">
@@ -17,7 +17,7 @@
           <mxGeometry height="30" width="110" x="70" y="440" as="geometry" />
         </mxCell>
         <mxCell id="3yZ4CemuOPj7jiAT1Wde-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="文件应用" vertex="1">
-          <mxGeometry height="30" width="110" x="70" y="360" as="geometry" />
+          <mxGeometry height="30" width="89" x="41" y="360" as="geometry" />
         </mxCell>
         <mxCell id="3yZ4CemuOPj7jiAT1Wde-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="全文解析" vertex="1">
           <mxGeometry height="30" width="60" x="230" y="440" as="geometry" />
@@ -93,6 +93,9 @@
         </mxCell>
         <mxCell id="3yZ4CemuOPj7jiAT1Wde-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="社区" vertex="1">
           <mxGeometry height="30" width="60" x="990" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="QLSoB5qE-zFHX7qaub0D-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="文件协同" vertex="1">
+          <mxGeometry height="30" width="80" x="130" y="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
