@@ -165,8 +165,8 @@
         <mxCell id="EZtZAQpM1pGLNK57MWw4-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="FAQ 问答" vertex="1">
           <mxGeometry height="30" width="60" x="640" y="379.5" as="geometry" />
         </mxCell>
-        <mxCell id="EZtZAQpM1pGLNK57MWw4-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;百胜一期项目整体建设&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="290" x="312.5" y="100" as="geometry" />
+        <mxCell id="EZtZAQpM1pGLNK57MWw4-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;百胜一期项目整体建设&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;（主要做文件汇聚身，份集成和搜索迁移到 As）&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="530" x="210" y="100" as="geometry" />
         </mxCell>
         <mxCell id="EZtZAQpM1pGLNK57MWw4-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="百宝箱审核" vertex="1">
           <mxGeometry height="30" width="80" x="150" y="560" as="geometry" />
