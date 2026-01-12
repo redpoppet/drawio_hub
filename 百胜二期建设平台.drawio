@@ -318,9 +318,6 @@
         <mxCell id="7anCPHZV9V3xmtIRGFsd-72" edge="1" parent="1" source="7anCPHZV9V3xmtIRGFsd-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.645;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="7anCPHZV9V3xmtIRGFsd-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7anCPHZV9V3xmtIRGFsd-73" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillColor=#990000;fillStyle=dots;sketch=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="265" y="940" as="geometry" />
-        </mxCell>
         <mxCell id="7anCPHZV9V3xmtIRGFsd-122" edge="1" parent="1" source="7anCPHZV9V3xmtIRGFsd-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
