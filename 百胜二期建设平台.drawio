@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0">
   <diagram name="第 1 页" id="sA20b9wlsNVGt7Ln21D4">
-    <mxGraphModel dx="988" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1586" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -450,6 +450,47 @@
         </mxCell>
         <mxCell id="7anCPHZV9V3xmtIRGFsd-131" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(204, 102, 0); font-size: 18px;&quot;&gt;二期核心诉求问题：&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(204, 102, 0);&quot; size=&quot;3&quot;&gt;1：期望As 7066 版的知识助手有足够的开放性&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(204, 102, 0);&quot; size=&quot;3&quot;&gt;2：能够从文件管理，内容管理，超级助手和自定义智能体三个模块上有标准的开放能力，方便集成外部能力，包括 mcp 工具和 Agent 工具。&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(204, 102, 0);&quot; size=&quot;3&quot;&gt;3：As + Ad 非常割裂，也太复杂，不能够让用户很好地在上面play。&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(204, 102, 0);&quot; size=&quot;3&quot;&gt;4：如果爱数不能短期内（一两个版本）解决这些问题，百胜就完全自己做了，as 就会被定位为文件管理平台&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="140" width="580" x="1060" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="7anCPHZV9V3xmtIRGFsd-136" edge="1" parent="1" source="7anCPHZV9V3xmtIRGFsd-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="7anCPHZV9V3xmtIRGFsd-133">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1080" y="1380" />
+              <mxPoint x="1200" y="1380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7anCPHZV9V3xmtIRGFsd-132" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="文档中心" vertex="1">
+          <mxGeometry height="60" width="120" x="1020" y="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="7anCPHZV9V3xmtIRGFsd-133" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="内容中心" vertex="1">
+          <mxGeometry height="60" width="120" x="1140" y="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="7anCPHZV9V3xmtIRGFsd-134" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="知识中心&lt;div&gt;知识萃取，知识助手，知识运营，知识社区&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1260" y="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="7anCPHZV9V3xmtIRGFsd-135" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="决策，动作" vertex="1">
+          <mxGeometry height="60" width="120" x="1380" y="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="7anCPHZV9V3xmtIRGFsd-138" edge="1" parent="1" source="7anCPHZV9V3xmtIRGFsd-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="7anCPHZV9V3xmtIRGFsd-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7anCPHZV9V3xmtIRGFsd-137" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据源" vertex="1">
+          <mxGeometry height="60" width="120" x="741" y="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="7anCPHZV9V3xmtIRGFsd-139" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="文件汇聚" vertex="1">
+          <mxGeometry height="30" width="60" x="895" y="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="7anCPHZV9V3xmtIRGFsd-140" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="解析和治理" vertex="1">
+          <mxGeometry height="30" width="71" x="1099" y="1350" as="geometry" />
+        </mxCell>
+        <mxCell id="7anCPHZV9V3xmtIRGFsd-142" edge="1" parent="1" source="7anCPHZV9V3xmtIRGFsd-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7anCPHZV9V3xmtIRGFsd-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7anCPHZV9V3xmtIRGFsd-141" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="外部系统" vertex="1">
+          <mxGeometry height="60" width="120" x="1260" y="1430" as="geometry" />
+        </mxCell>
+        <mxCell id="7anCPHZV9V3xmtIRGFsd-143" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="知识采集" vertex="1">
+          <mxGeometry height="30" width="71" x="1254" y="1380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
