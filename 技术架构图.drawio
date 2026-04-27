@@ -104,13 +104,16 @@
           <mxGeometry height="40" width="90" x="550" y="210" as="geometry" />
         </mxCell>
         <mxCell id="fWnT8OBxpjpuoqH6ArE_-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="会话" vertex="1">
-          <mxGeometry height="40" width="90" x="257" y="90" as="geometry" />
+          <mxGeometry height="40" width="90" x="220" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="fWnT8OBxpjpuoqH6ArE_-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="定时任务" vertex="1">
-          <mxGeometry height="40" width="90" x="397" y="90" as="geometry" />
+        <mxCell id="fWnT8OBxpjpuoqH6ArE_-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="任务" vertex="1">
+          <mxGeometry height="40" width="90" x="360" y="90" as="geometry" />
         </mxCell>
         <mxCell id="fWnT8OBxpjpuoqH6ArE_-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="频道" vertex="1">
-          <mxGeometry height="40" width="90" x="532" y="90" as="geometry" />
+          <mxGeometry height="40" width="90" x="495" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fWnT8OBxpjpuoqH6ArE_-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="资产" vertex="1">
+          <mxGeometry height="40" width="90" x="621.5" y="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
