@@ -115,6 +115,9 @@
         <mxCell id="fWnT8OBxpjpuoqH6ArE_-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="资产" vertex="1">
           <mxGeometry height="40" width="90" x="621.5" y="90" as="geometry" />
         </mxCell>
+        <mxCell id="fWnT8OBxpjpuoqH6ArE_-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="自进化" vertex="1">
+          <mxGeometry height="40" width="90" x="640" y="342" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
