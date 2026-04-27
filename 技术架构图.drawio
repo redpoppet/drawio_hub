@@ -8,19 +8,19 @@
           <mxGeometry height="90" width="420" x="170" y="60" as="geometry" />
         </mxCell>
         <mxCell id="PpS-eOdhZmQngVBP1shB-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="用户交互层" vertex="1">
-          <mxGeometry height="30" width="110" x="160" y="60" as="geometry" />
+          <mxGeometry height="30" width="110" x="151" y="60" as="geometry" />
         </mxCell>
         <mxCell id="PpS-eOdhZmQngVBP1shB-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="90" width="420" x="170" y="200" as="geometry" />
         </mxCell>
         <mxCell id="PpS-eOdhZmQngVBP1shB-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="gateway 网关层" vertex="1">
-          <mxGeometry height="30" width="110" x="170" y="200" as="geometry" />
+          <mxGeometry height="30" width="110" x="165" y="200" as="geometry" />
         </mxCell>
         <mxCell id="PpS-eOdhZmQngVBP1shB-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="90" width="420" x="170" y="330" as="geometry" />
+          <mxGeometry height="90" width="420" x="170" y="342" as="geometry" />
         </mxCell>
         <mxCell id="PpS-eOdhZmQngVBP1shB-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="agent运行层" vertex="1">
-          <mxGeometry height="30" width="110" x="160" y="330" as="geometry" />
+          <mxGeometry height="30" width="110" x="155" y="340" as="geometry" />
         </mxCell>
         <mxCell id="PpS-eOdhZmQngVBP1shB-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="健康认证" vertex="1">
           <mxGeometry height="40" width="90" x="200" y="230" as="geometry" />
@@ -30,6 +30,30 @@
         </mxCell>
         <mxCell id="PpS-eOdhZmQngVBP1shB-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="身份认证" vertex="1">
           <mxGeometry height="40" width="90" x="430" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="fWnT8OBxpjpuoqH6ArE_-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ReAct Agent" vertex="1">
+          <mxGeometry height="40" width="90" x="200" y="372" as="geometry" />
+        </mxCell>
+        <mxCell id="fWnT8OBxpjpuoqH6ArE_-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="会话队列" vertex="1">
+          <mxGeometry height="40" width="90" x="300" y="372" as="geometry" />
+        </mxCell>
+        <mxCell id="fWnT8OBxpjpuoqH6ArE_-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="上下文工程" vertex="1">
+          <mxGeometry height="40" width="90" x="410" y="372" as="geometry" />
+        </mxCell>
+        <mxCell id="fWnT8OBxpjpuoqH6ArE_-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="90" width="420" x="165" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="fWnT8OBxpjpuoqH6ArE_-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="agent能力层" vertex="1">
+          <mxGeometry height="30" width="110" x="155" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="fWnT8OBxpjpuoqH6ArE_-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="90" width="420" x="161" y="625" as="geometry" />
+        </mxCell>
+        <mxCell id="fWnT8OBxpjpuoqH6ArE_-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="agent资源层" vertex="1">
+          <mxGeometry height="30" width="110" x="151" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="fWnT8OBxpjpuoqH6ArE_-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="上下文工程" vertex="1">
+          <mxGeometry height="40" width="90" x="200" y="520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
