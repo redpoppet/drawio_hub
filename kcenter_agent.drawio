@@ -1,0 +1,127 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="GO1GpXiRHHKqMg5zmDKF">
+    <mxGraphModel dx="1255" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="130" width="170" x="50" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="180" width="170" x="50" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Notion" vertex="1">
+          <mxGeometry height="60" width="120" x="53" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="语雀" vertex="1">
+          <mxGeometry height="60" width="120" x="53" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="内容知识网络" vertex="1">
+          <mxGeometry height="160" width="160" x="1030" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="云文档" vertex="1">
+          <mxGeometry height="30" width="80" x="90" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-8" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;飞书&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="30" x="190" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="附件" vertex="1">
+          <mxGeometry height="30" width="80" x="90" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-10" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;AnyShare&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="160" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="多维表格" vertex="1">
+          <mxGeometry height="30" width="80" x="90" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="文件" vertex="1">
+          <mxGeometry height="30" width="80" x="70" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="索引" vertex="1">
+          <mxGeometry height="30" width="80" x="70" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="wiki" vertex="1">
+          <mxGeometry height="30" width="80" x="70" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="文件元数据" vertex="1">
+          <mxGeometry height="30" width="80" x="70" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="150" width="170" x="370" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-18" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;飞书 提取内容&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="420" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="文档结构化信息" vertex="1">
+          <mxGeometry height="30" width="126" x="394" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="文档语义化信息" vertex="1">
+          <mxGeometry height="30" width="126" x="397" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="170" width="170" x="370" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-22" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;AnyShare 提取内容&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="420" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="文档结构化信息" vertex="1">
+          <mxGeometry height="30" width="126" x="392" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="文档语义化信息" vertex="1">
+          <mxGeometry height="30" width="126" x="392" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="170" width="170" x="700" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-27" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: center;&quot;&gt;数据映射对象&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="750" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="对象" vertex="1">
+          <mxGeometry height="30" width="126" x="722" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="关系" vertex="1">
+          <mxGeometry height="30" width="126" x="722" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="行动" vertex="1">
+          <mxGeometry height="30" width="126" x="722" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="..." vertex="1">
+          <mxGeometry height="60" width="120" x="53" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="170" width="170" x="1290" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-40" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: center;&quot;&gt;合同库&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="1340" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="关系" vertex="1">
+          <mxGeometry height="30" width="126" x="1312" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="行动" vertex="1">
+          <mxGeometry height="30" width="126" x="1312" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="170" width="170" x="1290" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-45" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: center;&quot;&gt;制度库&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="1340" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="关系" vertex="1">
+          <mxGeometry height="30" width="126" x="1312" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="170" width="170" x="1290" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-49" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: center;&quot;&gt;项目库&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="1340" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="xx1" vertex="1">
+          <mxGeometry height="30" width="126" x="1312" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="XSAHib5YoKTjfyUGRYyq-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="xxx2" vertex="1">
+          <mxGeometry height="30" width="126" x="1312" y="780" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
