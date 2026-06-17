@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="zzcA-nCn4jXV7OGj1bcO">
-    <mxGraphModel dx="892" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1416" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,11 +43,17 @@
         <mxCell id="1iSZvxQknH0-4pjEmyiz-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="190" width="200" x="460" y="410" as="geometry" />
         </mxCell>
+        <mxCell id="BsXQ-Dc3EzRMwkG2ym1_-2" edge="1" parent="1" source="1iSZvxQknH0-4pjEmyiz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BsXQ-Dc3EzRMwkG2ym1_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1iSZvxQknH0-4pjEmyiz-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="X86 服务器 *2" vertex="1">
           <mxGeometry height="40" width="110" x="520" y="440" as="geometry" />
         </mxCell>
         <mxCell id="1iSZvxQknH0-4pjEmyiz-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GPU 服务器" vertex="1">
           <mxGeometry height="40" width="90" x="530" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="BsXQ-Dc3EzRMwkG2ym1_-3" edge="1" parent="1" source="1iSZvxQknH0-4pjEmyiz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="BsXQ-Dc3EzRMwkG2ym1_-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1iSZvxQknH0-4pjEmyiz-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="arm 服务器 *2" vertex="1">
           <mxGeometry height="40" width="110" x="520" y="540" as="geometry" />
@@ -141,6 +147,12 @@
         </mxCell>
         <mxCell id="3Q0UJyqe1s-UCvSW91df-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="http 访问" vertex="1">
           <mxGeometry height="30" width="146" x="400" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="BsXQ-Dc3EzRMwkG2ym1_-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ceph集群" vertex="1">
+          <mxGeometry height="40" width="110" x="760" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="BsXQ-Dc3EzRMwkG2ym1_-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="端口开放" vertex="1">
+          <mxGeometry height="30" width="60" x="830" y="600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
