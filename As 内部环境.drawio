@@ -154,6 +154,15 @@
         <mxCell id="BsXQ-Dc3EzRMwkG2ym1_-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="端口开放" vertex="1">
           <mxGeometry height="30" width="60" x="830" y="600" as="geometry" />
         </mxCell>
+        <mxCell id="BsXQ-Dc3EzRMwkG2ym1_-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="演示网络" vertex="1">
+          <mxGeometry height="30" width="60" x="930" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="BsXQ-Dc3EzRMwkG2ym1_-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="研发办公开发网络" vertex="1">
+          <mxGeometry height="30" width="60" x="940" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="BsXQ-Dc3EzRMwkG2ym1_-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="代码，测试，服务器网段" vertex="1">
+          <mxGeometry height="30" width="160" x="940" y="790" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
