@@ -43,13 +43,13 @@
         <mxCell id="1iSZvxQknH0-4pjEmyiz-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="190" width="200" x="460" y="410" as="geometry" />
         </mxCell>
-        <mxCell id="1iSZvxQknH0-4pjEmyiz-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="X86 服务器" vertex="1">
+        <mxCell id="1iSZvxQknH0-4pjEmyiz-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="X86 服务器 *2" vertex="1">
           <mxGeometry height="40" width="110" x="520" y="440" as="geometry" />
         </mxCell>
         <mxCell id="1iSZvxQknH0-4pjEmyiz-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GPU 服务器" vertex="1">
           <mxGeometry height="40" width="90" x="530" y="490" as="geometry" />
         </mxCell>
-        <mxCell id="1iSZvxQknH0-4pjEmyiz-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="X86 服务器" vertex="1">
+        <mxCell id="1iSZvxQknH0-4pjEmyiz-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="arm 服务器 *2" vertex="1">
           <mxGeometry height="40" width="110" x="520" y="540" as="geometry" />
         </mxCell>
         <mxCell id="1iSZvxQknH0-4pjEmyiz-18" edge="1" parent="1" source="1iSZvxQknH0-4pjEmyiz-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.009;entryY=0.371;entryDx=0;entryDy=0;entryPerimeter=0;" target="1iSZvxQknH0-4pjEmyiz-12">
@@ -65,6 +65,14 @@
         </mxCell>
         <mxCell id="1iSZvxQknH0-4pjEmyiz-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="研发台式机" vertex="1">
           <mxGeometry height="40" width="90" x="280" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q0UJyqe1s-UCvSW91df-15" edge="1" parent="1" source="1iSZvxQknH0-4pjEmyiz-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3Q0UJyqe1s-UCvSW91df-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="325" y="640" />
+              <mxPoint x="630" y="640" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="1iSZvxQknH0-4pjEmyiz-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="研发笔记本" vertex="1">
           <mxGeometry height="40" width="90" x="280" y="520" as="geometry" />
@@ -130,6 +138,9 @@
         </mxCell>
         <mxCell id="3Q0UJyqe1s-UCvSW91df-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="confluence" vertex="1">
           <mxGeometry height="40" width="110" x="575" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q0UJyqe1s-UCvSW91df-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="http 访问" vertex="1">
+          <mxGeometry height="30" width="146" x="400" y="610" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
