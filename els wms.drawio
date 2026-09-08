@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="Asl-B_qRkC-V3ZSXVfH9">
-    <mxGraphModel dx="1267" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1338" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -257,8 +257,8 @@
         <mxCell id="DS2q67TmnLAspZ4bZ_nn-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="各仓库库存dashborad" vertex="1">
           <mxGeometry height="57.5" width="110" x="1050" y="556" as="geometry" />
         </mxCell>
-        <mxCell id="DS2q67TmnLAspZ4bZ_nn-87" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="发起调拨请求（future）" vertex="1">
-          <mxGeometry height="30" width="180" x="925" y="210" as="geometry" />
+        <mxCell id="DS2q67TmnLAspZ4bZ_nn-87" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="发起调拨请求&lt;div&gt;（仓库&amp;lt;-&amp;gt;仓库,门店&amp;lt;-&amp;gt;门店，门店&amp;lt;-&amp;gt;仓库）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="258" x="922" y="210" as="geometry" />
         </mxCell>
         <mxCell id="DS2q67TmnLAspZ4bZ_nn-88" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="及时发货安排" vertex="1">
           <mxGeometry height="57.5" width="110" x="1048" y="380" as="geometry" />
