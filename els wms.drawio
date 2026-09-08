@@ -277,7 +277,7 @@
           <mxGeometry height="57.5" width="140" x="1050" y="556" as="geometry" />
         </mxCell>
         <mxCell id="DS2q67TmnLAspZ4bZ_nn-87" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="发起调拨请求&lt;div&gt;（仓库&amp;lt;-&amp;gt;仓库,门店&amp;lt;-&amp;gt;门店，门店&amp;lt;-&amp;gt;仓库）&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="258" x="922" y="210" as="geometry" />
+          <mxGeometry height="70" width="258" x="920" y="140" as="geometry" />
         </mxCell>
         <mxCell id="DS2q67TmnLAspZ4bZ_nn-88" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Shipment Arrangement" vertex="1">
           <mxGeometry height="57.5" width="110" x="1050" y="330" as="geometry" />
