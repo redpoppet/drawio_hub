@@ -263,6 +263,18 @@
         <mxCell id="DS2q67TmnLAspZ4bZ_nn-88" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="及时发货安排" vertex="1">
           <mxGeometry height="57.5" width="110" x="1048" y="380" as="geometry" />
         </mxCell>
+        <mxCell id="5OAvaclC1yCmIhdWySkz-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="warehouse A stock&amp;nbsp;" vertex="1">
+          <mxGeometry height="57.5" width="144" x="16" y="3.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5OAvaclC1yCmIhdWySkz-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Store stock" vertex="1">
+          <mxGeometry height="57.5" width="144" x="16" y="81" as="geometry" />
+        </mxCell>
+        <mxCell id="5OAvaclC1yCmIhdWySkz-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="all order" vertex="1">
+          <mxGeometry height="57.5" width="144" x="16" y="159.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5OAvaclC1yCmIhdWySkz-5" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;legacyAnchorPoints=0;" value="" vertex="1">
+          <mxGeometry height="170" width="20" x="176" y="21" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
