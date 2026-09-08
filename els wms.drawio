@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="Asl-B_qRkC-V3ZSXVfH9">
-    <mxGraphModel dx="1338" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1267" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,16 +15,26 @@
             <mxPoint x="1030" y="511" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DS2q67TmnLAspZ4bZ_nn-86" edge="1" parent="1" source="DS2q67TmnLAspZ4bZ_nn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;">
+        <mxCell id="DS2q67TmnLAspZ4bZ_nn-86" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="915" y="110" />
+              <mxPoint x="915" y="96" />
             </Array>
-            <mxPoint x="540" y="110" as="targetPoint" />
+            <mxPoint x="915" y="467" as="sourcePoint" />
+            <mxPoint x="540" y="96" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DS2q67TmnLAspZ4bZ_nn-89" edge="1" parent="1" source="DS2q67TmnLAspZ4bZ_nn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="DS2q67TmnLAspZ4bZ_nn-88">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5OAvaclC1yCmIhdWySkz-7" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="113" />
+            </Array>
+            <mxPoint x="880" y="474" as="sourcePoint" />
+            <mxPoint x="540" y="113" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="DS2q67TmnLAspZ4bZ_nn-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="China wms" vertex="1">
           <mxGeometry height="60" width="120" x="855" y="481" as="geometry" />
@@ -49,8 +59,8 @@
         <mxCell id="DS2q67TmnLAspZ4bZ_nn-33" edge="1" parent="1" source="DS2q67TmnLAspZ4bZ_nn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="DS2q67TmnLAspZ4bZ_nn-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="370" y="574" />
-              <mxPoint x="190" y="574" />
+              <mxPoint x="370" y="600" />
+              <mxPoint x="190" y="600" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -60,8 +70,8 @@
         <mxCell id="DS2q67TmnLAspZ4bZ_nn-35" edge="1" parent="1" source="DS2q67TmnLAspZ4bZ_nn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DS2q67TmnLAspZ4bZ_nn-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="370" y="574" />
-              <mxPoint x="546" y="574" />
+              <mxPoint x="370" y="600" />
+              <mxPoint x="546" y="600" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -254,8 +264,8 @@
         <mxCell id="DS2q67TmnLAspZ4bZ_nn-82" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&amp;nbsp;Stocking Operator" vertex="1">
           <mxGeometry height="60" width="30" x="298" y="700" as="geometry" />
         </mxCell>
-        <mxCell id="DS2q67TmnLAspZ4bZ_nn-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="各仓库库存dashborad" vertex="1">
-          <mxGeometry height="57.5" width="110" x="1050" y="556" as="geometry" />
+        <mxCell id="DS2q67TmnLAspZ4bZ_nn-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="warehouse&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;A&lt;/span&gt;&lt;div&gt;stock dashborad&lt;/div&gt;" vertex="1">
+          <mxGeometry height="57.5" width="140" x="1050" y="556" as="geometry" />
         </mxCell>
         <mxCell id="DS2q67TmnLAspZ4bZ_nn-87" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="发起调拨请求&lt;div&gt;（仓库&amp;lt;-&amp;gt;仓库,门店&amp;lt;-&amp;gt;门店，门店&amp;lt;-&amp;gt;仓库）&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="258" x="922" y="210" as="geometry" />
@@ -274,6 +284,18 @@
         </mxCell>
         <mxCell id="5OAvaclC1yCmIhdWySkz-5" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;legacyAnchorPoints=0;" value="" vertex="1">
           <mxGeometry height="170" width="20" x="176" y="21" as="geometry" />
+        </mxCell>
+        <mxCell id="5OAvaclC1yCmIhdWySkz-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="拉取所有订单，售后，库存&lt;div&gt;（WB，Ozon，BT.RU&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="156" x="720" y="217" as="geometry" />
+        </mxCell>
+        <mxCell id="5OAvaclC1yCmIhdWySkz-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="warehouse &lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;A1&lt;/span&gt;&lt;div&gt;stock dashborad&lt;/div&gt;" vertex="1">
+          <mxGeometry height="57.5" width="110" x="1290" y="474" as="geometry" />
+        </mxCell>
+        <mxCell id="5OAvaclC1yCmIhdWySkz-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="warehouse &lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;A2&lt;/span&gt;&lt;div&gt;stock dashborad&lt;/div&gt;" vertex="1">
+          <mxGeometry height="57.5" width="110" x="1290" y="556" as="geometry" />
+        </mxCell>
+        <mxCell id="5OAvaclC1yCmIhdWySkz-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="warehouse &lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;A3&lt;/span&gt;&lt;div&gt;stock dashborad&lt;/div&gt;" vertex="1">
+          <mxGeometry height="57.5" width="110" x="1290" y="634" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
