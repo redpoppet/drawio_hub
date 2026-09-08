@@ -365,8 +365,8 @@
         <mxCell id="5OAvaclC1yCmIhdWySkz-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="调拨入库" vertex="1">
           <mxGeometry height="30" width="60" x="576" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="5OAvaclC1yCmIhdWySkz-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="拉取&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;待发货订单、退货订单数据&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="156" x="696" y="276" as="geometry" />
+        <mxCell id="5OAvaclC1yCmIhdWySkz-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="拉取&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;待发货订单、&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;退货订单数据&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="156" x="671" y="276" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
