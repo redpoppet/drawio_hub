@@ -420,7 +420,7 @@
         <mxCell id="5OAvaclC1yCmIhdWySkz-69" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;未来铺设门店&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="170" x="1064" y="136.88" as="geometry" />
         </mxCell>
-        <mxCell id="5OAvaclC1yCmIhdWySkz-72" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="包含右侧所有仓库的库存信息，&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;不&lt;/span&gt;强制包含库位，出入库信息，&lt;/div&gt;&lt;div&gt;更多详细信息请查看wms系统&lt;/div&gt;" vertex="1">
+        <mxCell id="5OAvaclC1yCmIhdWySkz-72" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="包含右侧所有仓库的商品库存信息，&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;不&lt;/span&gt;强制包含库位，出入库信息，&lt;/div&gt;&lt;div&gt;更多详细信息请查看wms系统&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="203" x="534.5" y="37.63" as="geometry" />
         </mxCell>
       </root>
