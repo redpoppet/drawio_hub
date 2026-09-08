@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="Asl-B_qRkC-V3ZSXVfH9">
-    <mxGraphModel dx="1720" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1204" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -331,6 +331,27 @@
         </mxCell>
         <mxCell id="5OAvaclC1yCmIhdWySkz-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="9.11 Delivery Note 2" vertex="1">
           <mxGeometry height="32" width="130" x="1210" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="5OAvaclC1yCmIhdWySkz-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="submit" vertex="1">
+          <mxGeometry height="30" width="60" x="952" y="414" as="geometry" />
+        </mxCell>
+        <mxCell id="5OAvaclC1yCmIhdWySkz-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="watch" vertex="1">
+          <mxGeometry height="30" width="60" x="952" y="552" as="geometry" />
+        </mxCell>
+        <mxCell id="5OAvaclC1yCmIhdWySkz-29" parent="1" style="text;whiteSpace=wrap;html=1;" value="Put‑away" vertex="1">
+          <mxGeometry height="40" width="80" x="383" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="5OAvaclC1yCmIhdWySkz-30" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&amp;nbsp;Stocking Operator" vertex="1">
+          <mxGeometry height="60" width="30" x="130" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="5OAvaclC1yCmIhdWySkz-31" parent="1" style="text;whiteSpace=wrap;html=1;" value="Picking" vertex="1">
+          <mxGeometry height="40" width="70" x="198" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="5OAvaclC1yCmIhdWySkz-32" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&amp;nbsp;Stocking Operator" vertex="1">
+          <mxGeometry height="60" width="30" x="493" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="5OAvaclC1yCmIhdWySkz-33" parent="1" style="text;whiteSpace=wrap;html=1;" value="Stocktaking" vertex="1">
+          <mxGeometry height="40" width="100" x="552" y="720" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
