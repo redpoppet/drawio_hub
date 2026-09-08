@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="Asl-B_qRkC-V3ZSXVfH9">
-    <mxGraphModel dx="1267" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1720" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -270,8 +270,8 @@
         <mxCell id="DS2q67TmnLAspZ4bZ_nn-87" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="发起调拨请求&lt;div&gt;（仓库&amp;lt;-&amp;gt;仓库,门店&amp;lt;-&amp;gt;门店，门店&amp;lt;-&amp;gt;仓库）&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="258" x="922" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="DS2q67TmnLAspZ4bZ_nn-88" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="及时发货安排" vertex="1">
-          <mxGeometry height="57.5" width="110" x="1048" y="380" as="geometry" />
+        <mxCell id="DS2q67TmnLAspZ4bZ_nn-88" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Shipment Arrangement" vertex="1">
+          <mxGeometry height="57.5" width="110" x="1050" y="330" as="geometry" />
         </mxCell>
         <mxCell id="5OAvaclC1yCmIhdWySkz-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="warehouse A stock&amp;nbsp;&lt;div&gt;（&amp;nbsp;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;No need to lock&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;warehouse A1，A2，A3&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="57.5" width="144" x="16" y="3.5" as="geometry" />
@@ -289,13 +289,48 @@
           <mxGeometry height="30" width="156" x="720" y="217" as="geometry" />
         </mxCell>
         <mxCell id="5OAvaclC1yCmIhdWySkz-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="warehouse &lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;A1&lt;/span&gt;&lt;div&gt;stock dashborad&lt;/div&gt;" vertex="1">
-          <mxGeometry height="57.5" width="110" x="1290" y="474" as="geometry" />
+          <mxGeometry height="57.5" width="110" x="1250" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="5OAvaclC1yCmIhdWySkz-22" edge="1" parent="1" source="5OAvaclC1yCmIhdWySkz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1430" y="580.75" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5OAvaclC1yCmIhdWySkz-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="warehouse &lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;A2&lt;/span&gt;&lt;div&gt;stock dashborad&lt;/div&gt;" vertex="1">
-          <mxGeometry height="57.5" width="110" x="1290" y="556" as="geometry" />
+          <mxGeometry height="57.5" width="110" x="1250" y="552" as="geometry" />
         </mxCell>
         <mxCell id="5OAvaclC1yCmIhdWySkz-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="warehouse &lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;A3&lt;/span&gt;&lt;div&gt;stock dashborad&lt;/div&gt;" vertex="1">
-          <mxGeometry height="57.5" width="110" x="1290" y="634" as="geometry" />
+          <mxGeometry height="57.5" width="110" x="1250" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="5OAvaclC1yCmIhdWySkz-15" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="175" width="20" x="1210" y="501" as="geometry" />
+        </mxCell>
+        <mxCell id="5OAvaclC1yCmIhdWySkz-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="shelf b1 stock&amp;nbsp;" vertex="1">
+          <mxGeometry height="40" width="140" x="1480" y="454" as="geometry" />
+        </mxCell>
+        <mxCell id="5OAvaclC1yCmIhdWySkz-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="shelf b2 stock&amp;nbsp;" vertex="1">
+          <mxGeometry height="40" width="140" x="1480" y="513" as="geometry" />
+        </mxCell>
+        <mxCell id="5OAvaclC1yCmIhdWySkz-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="shelf b3 stock&amp;nbsp;" vertex="1">
+          <mxGeometry height="40" width="140" x="1480" y="577" as="geometry" />
+        </mxCell>
+        <mxCell id="5OAvaclC1yCmIhdWySkz-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="shelf bn stock&amp;nbsp;" vertex="1">
+          <mxGeometry height="40" width="140" x="1480" y="649" as="geometry" />
+        </mxCell>
+        <mxCell id="5OAvaclC1yCmIhdWySkz-21" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="210" width="20" x="1450" y="474" as="geometry" />
+        </mxCell>
+        <mxCell id="5OAvaclC1yCmIhdWySkz-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="9.8 Delivery Note 1" vertex="1">
+          <mxGeometry height="31" width="120" x="1210" y="269" as="geometry" />
+        </mxCell>
+        <mxCell id="5OAvaclC1yCmIhdWySkz-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="9.12 Delivery Note 3" vertex="1">
+          <mxGeometry height="37.5" width="130" x="1210" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="5OAvaclC1yCmIhdWySkz-25" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="175" width="20" x="1170" y="269" as="geometry" />
+        </mxCell>
+        <mxCell id="5OAvaclC1yCmIhdWySkz-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="9.11 Delivery Note 2" vertex="1">
+          <mxGeometry height="32" width="130" x="1210" y="345" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
